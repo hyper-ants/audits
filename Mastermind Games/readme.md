@@ -1,4 +1,4 @@
-**Master Mind Games Audit report**.<br><br>
+**Master Mind Games audit report**<br><br>
 Name: Smart Contract Code Review and Security Analysis Report of Mastermind Games<br>
 Platform: BSC / Solidity<br>
 File 1: MastermindGames.sol<br>
